@@ -19,7 +19,7 @@ As part of Connect(); 2018 we also released the [AI Vision Provision](https://gi
 
 # Demo Scripts
 
-You can find four **[demo scripts](Documents/DemoScripts)** that show the power of Azure, Visual Studio and GitHub.
+You can find the **[demo scripts](Documents/DemoScripts)** that show the power of Azure, Visual Studio and GitHub.
 
  * **[Integrating Azure Pipelines, GitHub and Azure Boards](https://github.com/Microsoft/TailwindTraders/tree/master/Documents/DemoScripts/Integrating%20Azure%20Pipelines,%20GitHub%20and%20Azure%20Boards)**  demonstrates the ability to easily use GitHub for hosting source code and use Azure Pipelines for continuous integration and continuous delivery to quickly deploy changes to Azure. Connect Azure Boards with GitHub repositories to take advantage of the rich project management capabilities provided by Azure Boards that spans Kanban boards, backlogs, team dashboards, and custom reporting, etc.
  
@@ -28,6 +28,8 @@ You can find four **[demo scripts](Documents/DemoScripts)** that show the power 
 * **[Modernizing .NET Apps](https://github.com/Microsoft/TailwindTraders/tree/master/Documents/DemoScripts/Modernizing%20.NET%20Apps)** move apps to the cloud and take advantage of cloud native solutions to modernize it and explore the benefits of Azure App Services.
 
 * **[Productivity Improvements in Visual Studio 2019](https://github.com/Microsoft/TailwindTraders/tree/master/Documents/DemoScripts/Productivity%20Improvements%20in%20Visual%20Studio%202019)** the new version contains many new and exciting features and IDE productivity enhancements to support Windows app development, cross-platform mobile development, Azure development, web and cloud development, and more.
+
+* **[Visual Studio App Center Capabilities](https://github.com/Microsoft/TailwindTraders/tree/master/Documents/DemoScripts/Visual%20Studio%20App%20Center%20Capabilities)** Automate the Build-Test-Distribute process for your mobile projects in GitHub. Continuous Integration and Continuous Delivery (CI/CD) with UI Test.
 
 # Application Diagram
 
@@ -53,6 +55,14 @@ You will need an Azure subscription to work with this demo code. You can:
 Learn more about it with [Microsoft Learn - Introduction to Azure](https://docs.microsoft.com/learn/azure).
 
 # Blog posts and videos
+
+Azure Friday: An overview of the Tailwind Traders reference apps for Azure
+
+[![Azure Friday: An overview of the Tailwind Traders reference apps for Azure](http://img.youtube.com/vi/EP-PME-1tq0/0.jpg)](http://www.youtube.com/watch?v=EP-PME-1tq0)
+
+Visual Studio 2019 Launch Event:
+
+[![Visual Studio 2019 Launch: Not your average keynote](http://img.youtube.com/vi/DANLUUIUrcM/0.jpg)](http://www.youtube.com/watch?v=DANLUUIUrcM)
 
 Videos and blog posts from Connect(); 2018:
 
